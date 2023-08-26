@@ -1,0 +1,13 @@
+.header{
+    background:linear-gradient(to right, rgba(0,0,0,0.1),rgba(0,0,0,0.7)), url(https://images.pexels.com/photos/259200/pexels-photo-259200.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+}
+.h-100{
+    width: 100%;
+    height: 100%;
+}
+.message{
+    background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+}
